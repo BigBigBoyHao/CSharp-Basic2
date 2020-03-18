@@ -1,0 +1,6 @@
+D:\学习\C#\HomeWork3\Problem7\bin\Debug\Problem7.exe.config
+D:\学习\C#\HomeWork3\Problem7\bin\Debug\Problem7.exe
+D:\学习\C#\HomeWork3\Problem7\bin\Debug\Problem7.pdb
+D:\学习\C#\HomeWork3\Problem7\obj\Debug\Problem7.csproj.CoreCompileInputs.cache
+D:\学习\C#\HomeWork3\Problem7\obj\Debug\Problem7.exe
+D:\学习\C#\HomeWork3\Problem7\obj\Debug\Problem7.pdb
